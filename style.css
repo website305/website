@@ -8,6 +8,14 @@ body
     min-height: 100vh;
 }
 
+
+#icon{
+    width: 30px;
+    cursor: pointer;
+}
+
+
+
 .container{
     height: 100vh;
     width: 100%;
