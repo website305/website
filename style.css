@@ -6,10 +6,16 @@ body
 
 
 #icon{
-    width: 30px;
+    height: 60;
+    width: 50px;
     cursor: pointer;
 }
 
+
+.info p1{
+    font-size: 70px;
+    color: blue;
+}
 
 
 .container{
