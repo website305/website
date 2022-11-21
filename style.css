@@ -17,6 +17,8 @@ body
     width: 100%;
     background: #043BAA;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .fa-sharp{
